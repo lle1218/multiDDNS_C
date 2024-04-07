@@ -14,10 +14,5 @@ logpath变量的值来指定更新日志文件存储路径
 interval listen_timeout的值改变对应的时间间隔
 
 
-声明：
 
-由于本人刚接触python,难免会存在很多问题，忘大家海涵
 
-联系我：
-
-tianle1218@126.com
